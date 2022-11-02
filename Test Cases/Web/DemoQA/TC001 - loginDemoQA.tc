@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - loginDemoQA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ffa0450-f030-46f1-873e-6c2061ee2ded</testCaseGuid>
+   <variable>
+      <defaultValue>'adit123'</defaultValue>
+      <description></description>
+      <id>b5957c7b-b02a-41ff-8b16-e69487a2a2c8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Adit123@'</defaultValue>
+      <description></description>
+      <id>6cc04524-7a8d-4568-91fe-1ed71d23b796</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
